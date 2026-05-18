@@ -1,5 +1,11 @@
 # Cajero_ATM
-## Programa simple de python para ejecutar en consula que emula operaciones basicas de un cajero atm, donde se recueerdan algunos priuncipios de la Programación Orientad a Objetos, asi como sus principios basicos.
+
+Programa simple de Python ejecutado en consola que simula operaciones básicas de un cajero automático.
+
+Este proyecto fue realizado como ejercicio práctico para recordar principios de Programación Orientada a Objetos, como clases, objetos, métodos, atributos, encapsulamiento y uso de constructores.
 
 ## Diagrama del cajero ATM
-![Diagrama de clase del cajero ATM](./cajero_atm_imagen.PNG)
+
+<p align="center">
+  <img src="./cajero_atm_imagen.PNG" alt="Diagrama de clase del cajero ATM" width="750">
+</p>
